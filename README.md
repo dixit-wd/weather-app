@@ -48,7 +48,7 @@ const apiKey = "your_api_key_here"; // Replace with your OpenWeather API key
 ## Screenshots
 | Weather Display | Error Message |
 |----------------|--------------|
-| ![Weather](assets/images/weather-sample.png) | ![Error](assets/images/error-sample.png) |
+| ![Weather](assets/images/weather-app.png) | ![Error](assets/images/weather-error.png) |
 
 ## Contributions
 Contributions are welcome! Feel free to fork the repository, create a feature branch, and submit a pull request.
